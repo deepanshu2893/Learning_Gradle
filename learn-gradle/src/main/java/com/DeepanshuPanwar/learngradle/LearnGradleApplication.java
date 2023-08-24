@@ -9,8 +9,6 @@ public class LearnGradleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LearnGradleApplication.class, args);
 	}
-	public void Command(){
-		System.out.println("Run");
-	}
+	
 }
 

@@ -24,6 +24,3 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
-public void print(){
-	System.out.println("Hello");
-}
